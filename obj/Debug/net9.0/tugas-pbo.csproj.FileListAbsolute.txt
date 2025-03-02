@@ -1,0 +1,14 @@
+/home/asta/Documents/tugasPBO/tugas-pbo/bin/Debug/net9.0/tugas-pbo
+/home/asta/Documents/tugasPBO/tugas-pbo/bin/Debug/net9.0/tugas-pbo.deps.json
+/home/asta/Documents/tugasPBO/tugas-pbo/bin/Debug/net9.0/tugas-pbo.runtimeconfig.json
+/home/asta/Documents/tugasPBO/tugas-pbo/bin/Debug/net9.0/tugas-pbo.dll
+/home/asta/Documents/tugasPBO/tugas-pbo/bin/Debug/net9.0/tugas-pbo.pdb
+/home/asta/Documents/tugasPBO/tugas-pbo/obj/Debug/net9.0/tugas-pbo.GeneratedMSBuildEditorConfig.editorconfig
+/home/asta/Documents/tugasPBO/tugas-pbo/obj/Debug/net9.0/tugas-pbo.AssemblyInfoInputs.cache
+/home/asta/Documents/tugasPBO/tugas-pbo/obj/Debug/net9.0/tugas-pbo.AssemblyInfo.cs
+/home/asta/Documents/tugasPBO/tugas-pbo/obj/Debug/net9.0/tugas-pbo.csproj.CoreCompileInputs.cache
+/home/asta/Documents/tugasPBO/tugas-pbo/obj/Debug/net9.0/tugas-pbo.dll
+/home/asta/Documents/tugasPBO/tugas-pbo/obj/Debug/net9.0/refint/tugas-pbo.dll
+/home/asta/Documents/tugasPBO/tugas-pbo/obj/Debug/net9.0/tugas-pbo.pdb
+/home/asta/Documents/tugasPBO/tugas-pbo/obj/Debug/net9.0/tugas-pbo.genruntimeconfig.cache
+/home/asta/Documents/tugasPBO/tugas-pbo/obj/Debug/net9.0/ref/tugas-pbo.dll
